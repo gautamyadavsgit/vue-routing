@@ -24,7 +24,7 @@ export default {
 <style scoped>
 ul {
   list-style: none;
-  margin: 3rem auto;
+  margin: 2rem auto;
   max-width: 20rem;
   padding: 0;
 }
